@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53c03f1b56ccbdf1",
+        "id": "fe76b5ef47af18c8",
         "type": "tabs",
         "children": [
           {
-            "id": "7c2d0d93d4864669",
+            "id": "e51a143bf022d503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ayah-text/indopak-qurancom.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ayah-text/indopak-qurancom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ayah-text/indopak-qurancom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ayah-text/indopak-qurancom.md"
               }
             }
           }
@@ -146,10 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c2d0d93d4864669",
+  "active": "e51a143bf022d503",
   "lastOpenFiles": [
-    "meta.md",
+    "ayah-text/uthmani-min-tanzil.md",
+    "ayah-text/simple-min-tanzil.md",
+    "ayah-text/simple-plain-tanzil.md",
+    "ayah-text/imlaei-qurancom.md",
+    "ayah-text/indopak-qurancom.md",
+    "source/tanzil.md",
+    "ayah-translation/id-affairs-quranenc.md",
+    "ayah-translation/id-indonesian-tanzil.md",
+    "ayah-translation/id-complex-quranenc.md",
+    "ayah-translation/as-rafeeq-quranenc.md",
+    "ayah-translation/aa-hamza-quranenc.md",
     "README.md",
+    "ayah-text.md",
+    "meta.md",
     "ayah-translation.md",
     "surah-info/id-muntakhab-tanzil.md",
     "source/README.md",
